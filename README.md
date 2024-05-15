@@ -75,7 +75,7 @@ This Java application is a Classroom & Lab booking system built using JavaFX for
 * refreshTab: Refreshes the current bookings tab.
 * showAlert: Displays alert messages.
 
-**ustom Exception**
+**Custom Exception**
 * InvalidTimeException: Custom exception thrown when the end time is before the start time during booking
 
 ## Notes
