@@ -93,7 +93,5 @@ This Java application is a Classroom & Lab booking system built using JavaFX for
 (Click on the link to download the screenshots of the app.)
 
 
-![futureScope](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/assets/116158619/950d40ea-7a87-427c-9fc5-f12eca4f3677)
-
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
