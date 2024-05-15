@@ -4,7 +4,7 @@
 
 This Java application is a Classroom & Lab booking system built using JavaFX for the user interface and MySQL for database management. The system allows users to log in, view current bookings, book new rooms, and change passwords. There are two types of rooms available for booking: labs and classrooms.
 
-![plot]([http://url/to/img.png](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/blob/main/overview.png))
+![overview](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/assets/116158619/cb6d3910-08a5-47a8-9aa3-d453d11609ee)
 
 ## Features
 
