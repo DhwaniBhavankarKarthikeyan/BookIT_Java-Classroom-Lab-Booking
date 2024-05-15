@@ -90,7 +90,7 @@ This Java application is a Classroom & Lab booking system built using JavaFX for
 ## Output
 
 [OutputScreenshots.pptx](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/files/15317078/OutputScreenshots.pptx)
-(Click on the above link to view the screenshots of the app.)
+(Click on the link to download the screenshots of the app.)
 
 
 ![futureScope](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/assets/116158619/950d40ea-7a87-427c-9fc5-f12eca4f3677)
