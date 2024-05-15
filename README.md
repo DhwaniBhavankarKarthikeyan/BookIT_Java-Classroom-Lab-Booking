@@ -87,5 +87,9 @@ This Java application is a Classroom & Lab booking system built using JavaFX for
 * Modify the database connection details as per your local MySQL setup.
 * The DB_PASSWORD should be kept secure and not hardcoded in a real-world application.
 
+## Output
+
+[OutputScreenshots.pptx](https://github.com/DhwaniBhavankarKarthikeyan/BookIT_Java-Classroom-Lab-Booking/files/15317078/OutputScreenshots.pptx)
+
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it as needed.
